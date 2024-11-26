@@ -101,3 +101,4 @@ Et aussi, suivant le nom de la librairie téléchargée via EdgeImpulse :
 ## 🙏 Remerciements
 
 - Abrège et la communauté
+- https://www.youtube.com/watch?v=x5MdpQb1MA0&t
